@@ -1,0 +1,6 @@
+{
+  "name": "Bakso Titoti",
+  "description": "A modern, warm, and authentic landing page for Bakso Titoti, the legendary Indonesian meatball restaurant with rich Wonogiri heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
